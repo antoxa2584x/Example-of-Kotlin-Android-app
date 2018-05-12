@@ -4,6 +4,7 @@ import android.app.Application
 import io.realm.Realm
 import io.realm.RealmConfiguration
 import test.kotlin.app.core.injection.component.AppComponent
+import test.kotlin.app.core.injection.component.DaggerAppComponent
 import test.kotlin.app.core.injection.module.AppModule
 import test.kotlin.app.core.injection.module.NetworkingModule
 
